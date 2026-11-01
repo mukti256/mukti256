@@ -1,24 +1,92 @@
-<h1 align="center">Hi 👋, I'm mukti</h1>
-<h3 align="center">A first year BCA student At AMITY UNIVERSITY</h3>
+# 👋 Hi, I'm Mukti Gupta!
 
-- 🌱 I’m currently learning **Frameworks Rasa, Flask**
+### AI/ML Enthusiast | Python Developer | BCA Student | Aspiring Software Engineer
 
-- 💬 Ask me about **python, C , HTML**
+I'm a BCA student at **Amity University, Noida**, passionate about building intelligent applications, exploring Artificial Intelligence, and developing technology-driven solutions.
 
-- 📫 How to reach me **muktigupta256@gmail.com**
+I enjoy working on projects involving **Artificial Intelligence, Machine Learning, Cybersecurity, Data Science, and Backend Development.**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mukti-gupta-60a168329](www.linkedin.com/in/mukti-gupta-60a168329)
+- 🔭 Currently working on AI-powered applications and software development projects.
+- 🌱 Exploring Machine Learning, LLMs, Flask, Rasa, and AI integration.
+- 💻 Experienced with Python, C, SQL, Flask, and web technologies.
+- 🤖 Interested in AI model evaluation, data analytics, and intelligent automation.
+- 🔐 Exploring cybersecurity, network intrusion detection, and threat analytics.
+- 📫 Reach me at: **muktigupta256@gmail.com**
+- 💼 LinkedIn: [Mukti Gupta](https://www.linkedin.com/in/mukti-gupta-60a168329/)
+- 📊 Kaggle: [mukti256](https://www.kaggle.com/mukti256)
 
-- ⚡ Fun fact **A fun fact about me is that I can simulate personality traits and adapt my communication style to match your preferences—like a conversational chameleon!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mukti gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukti gupta" height="30" width="40" /></a>
-<a href="https://kaggle.com/mukti256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mukti256" height="30" width="40" /></a>
-<a href="https://instagram.com/muktiiii_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muktiiii_gupta" height="30" width="40" /></a>
-</p>
+### 🚀 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+**1. Integrated Cloud-Based Network Intrusion Detection & Threat Analytics System**
+- Developed a security monitoring application for identifying suspicious network activities.
+- Integrated anomaly detection and threat analysis.
+- Implemented incident reporting and cloud-based report export functionality.
+- Worked with Python, Flask, and data analytics.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukti256&show_icons=true&locale=en&layout=compact" alt="mukti256" /></p>
+**2. ArcGen AI – AI-Assisted Parser Engineering Platform**
+- Building an AI-assisted platform for generating ArcSight FlexConnector parser configurations.
+- Converts raw logs into structured information using regex, field mapping, and AI-assisted explanations.
+- Focuses on reducing manual parser development efforts.
+
+**3. BBCP – Bharat Business Credibility Portal**
+- AI-based business risk assessment platform.
+- Designed to evaluate business credibility using business-related data.
+- Exploring machine learning for risk classification and intelligent decision support.
+
+**4. MedBot – AI Healthcare Assistant**
+- Healthcare-focused hackathon project designed to support elderly users.
+- Worked on frontend visualizations, graphs, and project documentation.
+
+---
+
+### 💼 Experience
+
+**LLM Post-Training Intern | Mahagun Technologies**
+- Evaluating AI-generated responses for quality, relevance, and instruction-following accuracy.
+- Working on AI response comparison and preference evaluation.
+- Performing image-generation and text-output quality assessments.
+- Using the Multimango Evaluation Platform and collaborative tools.
+
+---
+
+### 🛠️ Languages, Frameworks & Technologies
+
+**Programming Languages**
+
+Python | C | SQL | HTML | CSS | JavaScript
+
+**AI & Machine Learning**
+
+Machine Learning | Deep Learning | PyTorch | Pandas | OpenCV | LLM Evaluation | Data Analytics
+
+**Frameworks & Backend Development**
+
+Flask | Django | Rasa | Node.js
+
+**Databases**
+
+MySQL | Microsoft SQL Server | PostgreSQL
+
+**Cloud, DevOps & Tools**
+
+AWS | Docker | Linux | Git | GitHub | VS Code
+
+---
+
+### 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=mukti256&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukti256&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mukti256&theme=tokyonight&hide_border=true)
+
+---
+
+### 🤝 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/mukti-gupta-60a168329/) | [Kaggle](https://www.kaggle.com/mukti256) | [GitHub](https://github.com/mukti256)
+
+⭐ *Building, learning, experimenting, and turning ideas into intelligent solutions.*
